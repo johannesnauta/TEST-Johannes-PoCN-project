@@ -1,0 +1,27 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[wef()]{weforumProtectingCritical}
+{P}rotecting critical infrastructure from a cyber pandemic --- weforum.org.
+\newblock
+  \url{https://www.weforum.org/agenda/2021/10/protecting-critical-infrastructure-from-cyber-pandemic/}.
+\newblock [Accessed 29-Mar-2023].
+
+\bibitem[Barrat et~al.(2008)Barrat, Barthelemy, and
+  Vespignani]{barrat2008dynamical}
+Alain Barrat, Marc Barthelemy, and Alessandro Vespignani.
+\newblock \emph{Dynamical processes on complex networks}.
+\newblock Cambridge university press, 2008.
+
+\bibitem[De~Domenico et~al.(2013)De~Domenico, Sol{\'e}-Ribalta, Cozzo,
+  Kivel{\"a}, Moreno, Porter, G{\'o}mez, and Arenas]{de2013mathematical}
+Manlio De~Domenico, Albert Sol{\'e}-Ribalta, Emanuele Cozzo, Mikko Kivel{\"a},
+  Yamir Moreno, Mason~A Porter, Sergio G{\'o}mez, and Alex Arenas.
+\newblock Mathematical formulation of multilayer networks.
+\newblock \emph{Physical Review X}, 3\penalty0 (4):\penalty0 041022, 2013.
+
+\end{thebibliography}
