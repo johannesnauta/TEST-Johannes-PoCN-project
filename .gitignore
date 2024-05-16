@@ -28,3 +28,9 @@ Manifest.toml
 /report_template/main.log
 /report_template/main.out
 /report_template/sections/.DS_Store
+/latex/__MACOSX/*
+/latex/main.blg
+/latex/main.log
+/latex/main.out
+/latex/sections/.DS_Store
+/latex/images/.DS_Store
